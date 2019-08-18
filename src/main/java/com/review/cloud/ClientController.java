@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * @Autor xdbrian.steventh@gmail.com
  */
-@RestController(value = "/api/v1")
+@RestController
 public class ClientController {
 
 
